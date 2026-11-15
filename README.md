@@ -29,7 +29,7 @@ Explore RealtyScope — Explore the Jupyter Notebook, interactive analytics, mac
 
 Note: Run the notebook locally in Jupyter to use its interactive features.
 
-[![GITHUB](https://img.shields.io/badge/🚀_Live_Demo-Explore_RealtyScope-00C853?style=for-the-badge)](https://github.com/rohanbhowm25308/RealtyScope)
+[![GITHUB](https://img.shields.io/badge/🚀_GITHUB-Explore_RealtyScope-00C853?style=for-the-badge)](https://github.com/rohanbhowm25308/RealtyScope)
 
 
 >
