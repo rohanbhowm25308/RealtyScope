@@ -31,10 +31,7 @@ Note: Run the notebook locally in Jupyter to use its interactive features.
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanbhowm25308/RealtyScope)
 
-
->
-> **Note:** Run the notebook locally in Jupyter to use its interactive features.
-
+---
 
 ## 🚀 Key Features
 
