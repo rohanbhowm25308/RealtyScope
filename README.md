@@ -23,6 +23,19 @@ The project demonstrates how raw housing data can be transformed into interpreta
 
 ---
 
+## 🌐 GitHub Repository
+
+Explore **RealtyScope — Advanced Real Estate Analytics & Housing Price Prediction** directly on GitHub.
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Explore_RealtyScope-00C853?style=for-the-badge)](https://github.com/rohanbhowm25308/RealtyScope)
+
+🔗 **GitHub Repository:** [RealtyScope](https://github.com/rohanbhowm25308/RealtyScope)
+
+> Explore the Jupyter Notebook, interactive analytics, machine learning models, Explainable AI, and housing price prediction features.
+>
+> **Note:** Run the notebook locally in Jupyter to use its interactive features.
+
+
 ## 🚀 Key Features
 
 ###  1. Interactive Real Estate Analytics Dashboard
